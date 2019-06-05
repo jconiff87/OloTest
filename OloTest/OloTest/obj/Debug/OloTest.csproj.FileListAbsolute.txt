@@ -1,0 +1,9 @@
+C:\Users\BruceTheMoose\source\repos\OloTest\OloTest\bin\Debug\OloTest.exe.config
+C:\Users\BruceTheMoose\source\repos\OloTest\OloTest\bin\Debug\OloTest.exe
+C:\Users\BruceTheMoose\source\repos\OloTest\OloTest\bin\Debug\OloTest.pdb
+C:\Users\BruceTheMoose\source\repos\OloTest\OloTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BruceTheMoose\source\repos\OloTest\OloTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BruceTheMoose\source\repos\OloTest\OloTest\obj\Debug\OloTest.csprojResolveAssemblyReference.cache
+C:\Users\BruceTheMoose\source\repos\OloTest\OloTest\obj\Debug\OloTest.csproj.CoreCompileInputs.cache
+C:\Users\BruceTheMoose\source\repos\OloTest\OloTest\obj\Debug\OloTest.exe
+C:\Users\BruceTheMoose\source\repos\OloTest\OloTest\obj\Debug\OloTest.pdb
